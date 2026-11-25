@@ -5,8 +5,6 @@ Submitted for the AICTE Oasis Infobyte Student Internship Program (SIP), Web Dev
 - **Intern:** Destine Magumo
 - **Task:** Task 2 - Personal Portfolio
 - **Live demo:** https://destineportfolio.vercel.app/
-- **Demo video:** (add YouTube or LinkedIn link)
-- **LinkedIn post:** (add link)
 
 ## Objective
 
